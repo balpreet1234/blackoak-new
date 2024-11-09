@@ -150,9 +150,6 @@
               </div>
             </div><!--end row-->
 
-            
-
-            
 
           </main>
        <!--end page main-->
